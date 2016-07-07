@@ -1,7 +1,7 @@
 # zombo5
 Zombo.com made in html5 to keep the magic going
 
-(zombo5.com)[http://www.zombo5.com]
+http://www.zombo5.com
 
 Welcome to Zombo.com. This is Zombo.com. Welcome ! You can do anything at Zombo.com.
 
